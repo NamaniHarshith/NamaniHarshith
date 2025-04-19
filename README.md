@@ -70,9 +70,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/NamaniHarshith/NamaniHarshith/output/snake.svg" alt="Snake animation" />
 
 ###
 
